@@ -11,6 +11,8 @@ from PIL import Image
 resnet101 = models.resnet101(pretrained=True)
 resnet101.eval()
 
+print (resnet101)
+
 #load the image
 im = Image.open("img/cat.jpg")
 
