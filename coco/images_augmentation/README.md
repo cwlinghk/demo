@@ -14,10 +14,12 @@ transformed_bbox.height = random_multiplier * 368 * 0.6
 
 ## 3. Rotate image
 
--40 degrees to 40 degrees
+random rotate from -40 degrees to 40 degrees
 
 ![](img000000175734._03.jpg)
 
-## 4. Chrop image at bbox center
+## 4. Chrop image at the bbox center
+
+resulted size = 368 * 368
 
 ![](img000000175734._04.jpg)
