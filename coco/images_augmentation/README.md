@@ -4,6 +4,8 @@
 
 ## 1. Original
 
+An image with 3 persons (3 annotations).
+
 ![](img000000175734._01.jpg)
 
 ## 2. Scale image according to a bbox height
