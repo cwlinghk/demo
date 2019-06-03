@@ -1,6 +1,7 @@
 
 # Image Augmentation in OpenPose
 
+One single annotated image is corresponding to serveral training instances in OpenPose due to image augmentation, which depends on the number of annoations (person) in the image.
 
 ## 1. Original
 
